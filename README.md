@@ -36,8 +36,8 @@ Each chakra represents a Python skill level with teachings and quiz questions. A
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Python-game.git
-cd Python-game
+git clone https://github.com/poojavats/Python_game.git
+cd Python_game
 
 # Install dependencies
 pip install pygame
